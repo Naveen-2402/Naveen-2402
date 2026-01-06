@@ -131,4 +131,4 @@ I’m open to:
 
 ## ⭐ GitHub Stats
 
-![Naveen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-2402&theme=radical)
+![Naveen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Naveen-2402&show_icons=true&theme=radical)
