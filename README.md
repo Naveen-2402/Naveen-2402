@@ -4,8 +4,10 @@
   />
 </p>
 
-## 👋 Hi, I’m **Naveen V**
-### _AI Engineer • Founder @ Agents Factory_
+## 👋 Hi, I’m <span style="color:#fbbf24; font-weight:600;">Naveen V</span>
+
+### _AI Engineer • Founder @ <span style="color:#ff8c00; font-weight:600;">Agents</span><span style="color:#ffffff; font-weight:600;">Factory</span>_
+
 
 🎯 I build **AI-first systems**, **engineering-driven products**, and **scalable automation platforms** that turn ideas into real-world impact.
 
@@ -17,7 +19,7 @@
 
 ## <img src="https://img.icons8.com/doodle/40/rocket.png"/> Founder Mindset
 
-I’m an **AI Engineer & Product Founder** focused on designing and shipping **intelligent systems**—not just applications.  
+I’m an **AI Engineer & Product Founder** focused on designing and shipping **intelligent systems** - not just applications.  
 My work sits at the intersection of **engineering rigor**, **automation**, and **product thinking**.
 
 I care deeply about:
@@ -28,10 +30,42 @@ I care deeply about:
 - AI that **actually solves problems**
 - Clean architecture, automation, and execution
 
-<img src="https://img.icons8.com/doodle/24/marker.png"/> Based in India  
-<img src="https://img.icons8.com/doodle/24/office.png"/> Founder — **Agents Factory** (AI systems & automation)  
-<img src="https://img.icons8.com/doodle/24/internet.png"/> Portfolio: https://naveen.agentsfactory.io/  
-<img src="https://img.icons8.com/doodle/24/link.png"/> Company: https://agentsfactory.io/
+<img src="https://img.icons8.com/doodle/24/route.png"/> Based in <span style="
+  background: linear-gradient(90deg, #ff9933, #ffffff, #138808);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+">
+  India
+</span>
+<img src="https://img.icons8.com/doodle/24/company.png"/> Founder — <span style="color:#ff8c00; font-weight:600;">Agents</span><span style="color:#ffffff; font-weight:600;">Factory</span> (AI systems & automation)
+<p>
+  <img src="https://img.icons8.com/doodle/24/link.png"/>
+  Portfolio:
+  <a href="https://naveen.agentsfactory.io" style="
+    text-decoration: none;
+    background: linear-gradient(90deg, #ff6a00, #ee0979, #8e2de2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+  ">
+    naveen.agentsfactory.io
+  </a>
+  <br/>
+
+  <img src="https://img.icons8.com/doodle/24/link.png"/>
+  Company:
+  <a href="https://agentsfactory.io" style="
+    text-decoration: none;
+    background: linear-gradient(90deg, #00c6ff, #0072ff, #00f2fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+  ">
+    agentsfactory.io
+  </a>
+</p>
+
 
 ---
 ## <img src="https://img.icons8.com/doodle/40/maintenance.png"/> Engineering Focus Areas
@@ -51,8 +85,28 @@ I’m open to:
 - Engineering-led startup conversations  
 
 <p>
-  <img src="https://img.icons8.com/doodle/24/email.png"/> <b>Organisation:</b> naveen@agentsfactory.io<br/>
-  <img src="https://img.icons8.com/doodle/24/email.png"/> <b>Personal:</b> naveenvijaymath@gmail.com
+  <img src="https://img.icons8.com/doodle/24/email.png"/> 
+  <span>Organisation:</span>
+  <span style="
+    background: linear-gradient(90deg, #ff6a00, #ee0979, #8e2de2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+  ">
+    naveen@agentsfactory.io
+  </span>
+  <br/>
+
+  <img src="https://img.icons8.com/doodle/24/email.png"/> 
+  <span>Personal:</span>
+  <span style="
+    background: linear-gradient(90deg, #ff6a00, #ee0979, #8e2de2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+  ">
+    naveenvijaymath@gmail.com
+  </span>
 </p>
 
 <p>
@@ -77,4 +131,4 @@ I’m open to:
 
 ## ⭐ GitHub Stats
 
-![Naveen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Naveen-2402&show_icons=true&theme=radical)
+![Naveen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-2402&theme=radical)
