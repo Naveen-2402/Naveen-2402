@@ -4,9 +4,10 @@
   />
 </p>
 
-## 👋 Hi, I’m **Naveen V**
+## 👋 Hi, I’m <img src="https://img.shields.io/badge/Naveen%20V-fbbf24?style=flat-square&logoColor=black" height="25"/>
 
-### ![](https://img.shields.io/badge/AI_Engineer-2ea44f?style=flat-square) ![](https://img.shields.io/badge/Founder-black?style=flat-square) [![Agents Factory](https://img.shields.io/badge/Agents_Factory-FF8C00?style=flat-square&logoColor=white)](https://agentsfactory.io)
+### _AI Engineer • Founder @_ <a href="https://agentsfactory.io"><img src="https://img.shields.io/badge/Agents_Factory-ff8c00?style=flat-square&logoColor=white" height="25"/></a>
+
 
 🎯 I build **AI-first systems**, **engineering-driven products**, and **scalable automation platforms** that turn ideas into real-world impact.
 
@@ -18,35 +19,36 @@
 
 ## <img src="https://img.icons8.com/doodle/40/rocket.png"/> Founder Mindset
 
-I’m an **AI Engineer & Product Founder** focused on designing and shipping **intelligent systems**—not just applications.  
+I’m an **AI Engineer & Product Founder** focused on designing and shipping **intelligent systems** - not just applications.  
 My work sits at the intersection of **engineering rigor**, **automation**, and **product thinking**.
 
 I care deeply about:
-- <img src="https://img.icons8.com/doodle/32/graph.png"/> Building systems that **scale**
-- <img src="https://img.icons8.com/doodle/32/brain.png"/> Engineering clarity over hype
-- <img src="https://img.icons8.com/doodle/32/artificial-intelligence.png"/> AI that **actually solves problems**
-- <img src="https://img.icons8.com/doodle/32/project.png"/> Clean architecture, automation, and execution
+- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="32" style="vertical-align: middle;" /> Building systems that **scale**
+- Engineering clarity over hype
+- AI that **actually solves problems**
+- Clean architecture, automation, and execution
 
-<img src="https://img.icons8.com/doodle/24/marker.png"/> Based in ![](https://img.shields.io/badge/India-FF9933?style=flat-square&logo=google-maps&logoColor=white)  
-<img src="https://img.icons8.com/doodle/24/office.png"/> Founder — **Agents Factory** (AI systems & automation)
+<img src="https://img.icons8.com/doodle/24/route.png"/> Based in <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=india&logoColor=white" height="20"/>
+<br/>
+<img src="https://img.icons8.com/doodle/24/company.png"/> Founder — <a href="https://agentsfactory.io"><img src="https://img.shields.io/badge/Agents_Factory-ff8c00?style=flat-square" height="20"/></a> (AI systems & automation)
 
 <p>
-  <img src="https://img.icons8.com/doodle/24/internet.png"/> 
-  Portfolio: 
+  <img src="https://img.icons8.com/doodle/24/link.png"/> 
+  Portfolio:
   <a href="https://naveen.agentsfactory.io">
     <img src="https://img.shields.io/badge/naveen.agentsfactory.io-8e2de2?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <br/>
 
   <img src="https://img.icons8.com/doodle/24/link.png"/> 
-  Company: 
+  Company:
   <a href="https://agentsfactory.io">
-    <img src="https://img.shields.io/badge/agentsfactory.io-0072ff?style=flat-square&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/agentsfactory.io-0072ff?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
----
 
+---
 ## <img src="https://img.icons8.com/doodle/40/maintenance.png"/> Engineering Focus Areas
 
 - System Design & Architecture  
@@ -56,7 +58,6 @@ I care deeply about:
 - Deployment, APIs, and Infrastructure Thinking  
 
 ---
-
 ## <img src="https://img.icons8.com/doodle/40/laptop.png"/> Connect With Me
 
 I’m open to:
@@ -65,15 +66,15 @@ I’m open to:
 - Engineering-led startup conversations  
 
 <p>
-  <img src="https://img.icons8.com/doodle/24/mail.png"/> 
-  <b>Org:</b> 
+  <img src="https://img.icons8.com/doodle/24/email.png"/> 
+  <span>Organisation:</span>
   <a href="mailto:naveen@agentsfactory.io">
-    <img src="https://img.shields.io/badge/naveen@agentsfactory.io-FF8C00?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/naveen@agentsfactory.io-8e2de2?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <br/>
-  
-  <img src="https://img.icons8.com/doodle/24/mail.png"/> 
-  <b>Personal:</b> 
+
+  <img src="https://img.icons8.com/doodle/24/email.png"/> 
+  <span>Personal:</span>
   <a href="mailto:naveenvijaymath@gmail.com">
     <img src="https://img.shields.io/badge/naveenvijaymath@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
