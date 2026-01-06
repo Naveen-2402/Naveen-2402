@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I’m **Naveen V**
 
-### _AI Engineer • Founder @ **Agents Factory**_
+### ![](https://img.shields.io/badge/AI_Engineer-2ea44f?style=flat-square) ![](https://img.shields.io/badge/Founder-black?style=flat-square) [![Agents Factory](https://img.shields.io/badge/Agents_Factory-FF8C00?style=flat-square&logoColor=white)](https://agentsfactory.io)
 
 🎯 I build **AI-first systems**, **engineering-driven products**, and **scalable automation platforms** that turn ideas into real-world impact.
 
@@ -27,15 +27,22 @@ I care deeply about:
 - <img src="https://img.icons8.com/doodle/32/artificial-intelligence.png"/> AI that **actually solves problems**
 - <img src="https://img.icons8.com/doodle/32/project.png"/> Clean architecture, automation, and execution
 
-<img src="https://img.icons8.com/doodle/24/marker.png"/> Based in **India** <img src="https://img.icons8.com/doodle/24/office.png"/> Founder — **Agents Factory** (AI systems & automation)
+<img src="https://img.icons8.com/doodle/24/marker.png"/> Based in ![](https://img.shields.io/badge/India-FF9933?style=flat-square&logo=google-maps&logoColor=white)  
+<img src="https://img.icons8.com/doodle/24/office.png"/> Founder — **Agents Factory** (AI systems & automation)
 
 <p>
   <img src="https://img.icons8.com/doodle/24/internet.png"/> 
-  Portfolio: <a href="https://naveen.agentsfactory.io"><b>naveen.agentsfactory.io</b></a>
+  Portfolio: 
+  <a href="https://naveen.agentsfactory.io">
+    <img src="https://img.shields.io/badge/naveen.agentsfactory.io-8e2de2?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
   <br/>
 
   <img src="https://img.icons8.com/doodle/24/link.png"/> 
-  Company: <a href="https://agentsfactory.io"><b>agentsfactory.io</b></a>
+  Company: 
+  <a href="https://agentsfactory.io">
+    <img src="https://img.shields.io/badge/agentsfactory.io-0072ff?style=flat-square&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -59,11 +66,17 @@ I’m open to:
 
 <p>
   <img src="https://img.icons8.com/doodle/24/mail.png"/> 
-  <b>Org:</b> <a href="mailto:naveen@agentsfactory.io">naveen@agentsfactory.io</a>
+  <b>Org:</b> 
+  <a href="mailto:naveen@agentsfactory.io">
+    <img src="https://img.shields.io/badge/naveen@agentsfactory.io-FF8C00?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
   <br/>
   
   <img src="https://img.icons8.com/doodle/24/mail.png"/> 
-  <b>Personal:</b> <a href="mailto:naveenvijaymath@gmail.com">naveenvijaymath@gmail.com</a>
+  <b>Personal:</b> 
+  <a href="mailto:naveenvijaymath@gmail.com">
+    <img src="https://img.shields.io/badge/naveenvijaymath@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p>
@@ -88,4 +101,4 @@ I’m open to:
 
 ## ⭐ GitHub Stats
 
-![Naveen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-2402&theme=radical)
+![Naveen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Naveen-2402&show_icons=true&theme=radical)
