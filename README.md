@@ -77,4 +77,4 @@ I’m open to:
 
 ## ⭐ GitHub Stats
 
-![Naveen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen-2402&show_icons=true&theme=radical)
+![Naveen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Naveen-2402&show_icons=true&theme=radical)
