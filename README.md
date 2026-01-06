@@ -37,6 +37,7 @@ I care deeply about:
   font-weight: 600;
 ">
   India
+  
 </span>
 <img src="https://img.icons8.com/doodle/24/company.png"/> Founder — <span style="color:#ff8c00; font-weight:600;">Agents</span><span style="color:#ffffff; font-weight:600;">Factory</span> (AI systems & automation)
 <p>
