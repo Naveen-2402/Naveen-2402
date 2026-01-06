@@ -30,7 +30,7 @@ I care deeply about:
 
 <img src="https://img.icons8.com/doodle/24/route.png"/> Based in <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=india&logoColor=white" height="20"/>
 <br/>
-<img src="https://img.icons8.com/doodle/24/company.png"/> Founder — <a href="https://agentsfactory.io"><img src="https://img.shields.io/badge/Agents_Factory-ff8c00?style=flat-square" height="20"/></a> (AI systems & automation)
+<img src="https://img.icons8.com/doodle/24/company.png"/> Founder — **Agents Factory** (AI systems & automation)
 
 <p>
   <img src="https://img.icons8.com/doodle/24/link.png"/> 
